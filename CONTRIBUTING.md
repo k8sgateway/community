@@ -23,8 +23,8 @@ just make sure that you include a test that verifies the bug you are fixing.
 
 This includes:
 
-- Big bug fixes
-- New features
+* Big bug fixes
+* New features
 
 For significant changes to the codebase, it’s important to settle on a design before starting on the implementation. [Reaching out to us in CNCF slack](https://cloud-native.slack.com/archives/C080D3PJMS4) early will help minimize the amount of possible wasted effort and will ensure that major improvements are given enough attention.
 
