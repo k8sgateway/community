@@ -9,6 +9,8 @@ Here are some of the ways you can contribute:
 * [Big pull requests](#big-prs)
 * [Code review guidelines](#code-review-guidelines)
 
+To understand contributor roles, refer to the [contributor ladder guide](CONTRIBUTOR_LADDER.md).
+
 ## Filing issues
 
 If you encounter a bug, please file an issue on GitHub in the k8sgateway/k8sgateway repo.
